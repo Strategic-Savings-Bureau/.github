@@ -30,11 +30,11 @@ This project demonstrates our understanding of Android development principles, F
 - **Supabase Storage** – Bucket storage for user-uploaded images and files  
 - **MPAndroidChart** – Library for rendering bar charts, pie charts, and line graphs
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" height = "40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height = "40" />
-<img src="https://images.app.goo.gl/HwP7e2wDEjYtrYHg8" height = "40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height = "40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height = "40" />     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" height = "60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height = "60" />
+<img src="https://images.app.goo.gl/HwP7e2wDEjYtrYHg8" height = "60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height = "60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height = "60" />     
 </p>
 
 
